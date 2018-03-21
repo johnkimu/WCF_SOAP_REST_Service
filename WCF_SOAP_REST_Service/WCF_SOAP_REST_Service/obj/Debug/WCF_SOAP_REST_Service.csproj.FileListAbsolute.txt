@@ -1,0 +1,7 @@
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WCF_SOAP_REST_Service\bin\WCF_SOAP_REST_Service.dll.config
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WCF_SOAP_REST_Service\bin\WCF_SOAP_REST_Service.dll
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WCF_SOAP_REST_Service\bin\WCF_SOAP_REST_Service.pdb
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WCF_SOAP_REST_Service\obj\Debug\WCF_SOAP_REST_Service.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WCF_SOAP_REST_Service\obj\Debug\WCF_SOAP_REST_Service.dll
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WCF_SOAP_REST_Service\obj\Debug\WCF_SOAP_REST_Service.pdb
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WCF_SOAP_REST_Service\obj\Debug\WCF_SOAP_REST_Service.csprojResolveAssemblyReference.cache

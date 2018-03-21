@@ -1,0 +1,13 @@
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WPF_WCF_SOAP_REST_Client\obj\Debug\App.g.cs
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WPF_WCF_SOAP_REST_Client\obj\Debug\WPF_WCF_SOAP_REST_Client_MarkupCompile.cache
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WPF_WCF_SOAP_REST_Client\obj\Debug\MainWindow.baml
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WPF_WCF_SOAP_REST_Client\obj\Debug\MainWindow.g.cs
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WPF_WCF_SOAP_REST_Client\obj\Debug\WPF_WCF_SOAP_REST_Client.g.resources
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WPF_WCF_SOAP_REST_Client\obj\Debug\WPF_WCF_SOAP_REST_Client.Properties.Resources.resources
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WPF_WCF_SOAP_REST_Client\obj\Debug\WPF_WCF_SOAP_REST_Client.csproj.GenerateResource.cache
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WPF_WCF_SOAP_REST_Client\obj\Debug\WPF_WCF_SOAP_REST_Client.csproj.CoreCompileInputs.cache
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WPF_WCF_SOAP_REST_Client\bin\Debug\WPF_WCF_SOAP_REST_Client.exe.config
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WPF_WCF_SOAP_REST_Client\bin\Debug\WPF_WCF_SOAP_REST_Client.exe
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WPF_WCF_SOAP_REST_Client\bin\Debug\WPF_WCF_SOAP_REST_Client.pdb
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WPF_WCF_SOAP_REST_Client\obj\Debug\WPF_WCF_SOAP_REST_Client.exe
+C:\Users\John\Documents\Learning Materials Top Bsc\System integration\WCF_SOAP_REST_Service\WPF_WCF_SOAP_REST_Client\obj\Debug\WPF_WCF_SOAP_REST_Client.pdb
